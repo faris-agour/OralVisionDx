@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime and logs
+*.log
+
+# Data and experiment outputs (regenerable)
+data/
+results/**/oral_runs/
+
+# Optional local artifacts
+*.tmp
