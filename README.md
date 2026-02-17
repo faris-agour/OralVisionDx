@@ -16,7 +16,11 @@ Upload an oral image and the system will:
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/58d28e12-63d9-45bb-ac5a-f1c8ae2c2e8f
+
+https://github.com/user-attachments/assets/8ed92e5f-0242-47a0-9181-d8bc1968267e
+
+
+
 
 ---
 
