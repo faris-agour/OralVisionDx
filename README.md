@@ -118,7 +118,7 @@ OralVisionDx/
 
 ### 1) Clone
 ```bash
-git clone TODO: <your-repo-link>
+git clone [TODO: <your-repo-link>](https://github.com/faris-agour/OralVisionDx)
 cd OralVisionDx
 ```
 
